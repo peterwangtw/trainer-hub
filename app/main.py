@@ -25,12 +25,12 @@ C = {
     "ink": "#0E0E0E", "ink2": "#5D5B56", "ink3": "#8F8D88", "line": "#D8D6D0",
     "card": "#FFFFFF", "card_alt": "#F6F5F2", "placeholder": "#DAD8D2",
     "orange": "#F04E23", "orange_hover": "#D63F17", "yellow": "#FFF78B", "yellow_hover": "#F5EC6E",
-    "green": "#2E9B57", "amber": "#C77700", "off": "#C8C6C0", "black_chip": "#0E0E0E",
+    "green": "#2E9B57", "amber": "#C77700", "off": "#C8C6C0",
 }
 SANS = "Microsoft JhengHei UI"
 SERIF = "Georgia"
 F = {
-    "logo": (SANS, 12, "bold"), "nav": (SANS, 10), "announce": (SANS, 9),
+    "logo": (SANS, 12, "bold"), "nav": (SANS, 10),
     "hero": (SANS, 30, "bold"), "hero_sub": (SANS, 11), "title": (SERIF, 30), "title_cn": (SANS, 22, "bold"),
     "section": (SANS, 13, "bold"), "count": (SANS, 10), "card_name": (SANS, 10, "bold"), "card_sub": (SANS, 9),
     "body": (SANS, 10), "small": (SANS, 9), "btn": (SANS, 10, "bold"), "feature": (SANS, 13, "bold"),
@@ -999,18 +999,6 @@ class App:
                     font=(SANS, 9, "bold"), padx=14, pady=5).pack(side="right", padx=(8, 4))
         self.nav_active = tk.Label(nav, text="", bg=C["nav"], fg=C["nav_dim"], font=F["small"])
         self.nav_active.pack(side="right", padx=8)
-
-        bar = tk.Frame(self.root, bg=C["yellow"])
-        bar.pack(fill="x", padx=12, pady=(0, 0))
-        inner = tk.Frame(bar, bg=C["yellow"])
-        inner.pack(pady=6)
-        names = "、".join(f"{g.name} {g.version_label}" for g in GAMES)
-        tk.Label(inner, text=f"目前支援：{names}　·　更多遊戲開發中", bg=C["yellow"], fg=C["ink"],
-                 font=F["announce"]).pack(side="left", padx=(0, 10))
-        chip = tk.Label(inner, text="開啟", bg=C["black_chip"], fg="white", font=(SANS, 8, "bold"),
-                        padx=8, pady=2, cursor="hand2")
-        chip.pack(side="left")
-        chip.bind("<Button-1>", lambda e: self.show_trainer(GAMES[0].id))
 
         self.container = tk.Frame(self.root, bg=C["bg"])
         self.container.pack(fill="both", expand=True)
