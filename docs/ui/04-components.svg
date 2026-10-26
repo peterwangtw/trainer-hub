@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1420" viewBox="0 0 1500 1420"><defs><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><rect x="10" y="10" width="1.5" height="1.5" fill="#D3D1CB"/></pattern></defs><rect width="100%" height="100%" fill="#E4E4E4"/>
+<text x="80" y="66" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#555555" text-anchor="start">04 · 元件與狀態</text>
+<text x="201.2" y="66" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="400" fill="#888888" text-anchor="start">Components</text>
+<rect x="80" y="80" width="1340" height="1260" rx="0" fill="#ECEBE7"/>
+<text x="110" y="124" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="start">按鈕</text>
+<line x1="110" y1="134" x2="1390" y2="134" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="110" y="154" width="120" height="34" rx="0" fill="#F04E23"/>
+<text x="170.0" y="175.68" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">啟動遊戲</text>
+<text x="110" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">主要 · #F04E23</text>
+<rect x="290" y="154" width="120" height="34" rx="0" fill="#D63F17"/>
+<text x="350.0" y="175.68" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">啟動遊戲</text>
+<text x="290" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">主要 hover · #D63F17</text>
+<rect x="470" y="154" width="120" height="34" rx="0" fill="#FFF78B"/>
+<text x="530.0" y="175.68" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="middle">重新掃描</text>
+<text x="470" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">次要 · #FFF78B</text>
+<rect x="650" y="154" width="120" height="34" rx="0" fill="#FFFFFF"/>
+<text x="710.0" y="175.68" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="middle">取消</text>
+<text x="650" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">中性 · 白</text>
+<rect x="830" y="154" width="120" height="34" rx="0" fill="#F6F5F2"/>
+<text x="890.0" y="175.68" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="middle">瀏覽…</text>
+<text x="830" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">輕量 · #F6F5F2</text>
+<rect x="1010" y="152" width="38" height="38" rx="0" fill="#202020"/>
+<text x="1029" y="178" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="18" font-weight="400" fill="#F5F5F2" text-anchor="middle">⚙</text>
+<text x="1010" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">圖示 · 導覽列上</text>
+<text x="1130" y="176" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="400" fill="#5D5B56" text-anchor="start">←  遊戲庫</text>
+<text x="1240" y="176" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="400" fill="#F04E23" text-anchor="start">←  遊戲庫</text>
+<text x="1130" y="208" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">文字連結 · 預設 / hover</text>
+<text x="110" y="264" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="start">開關 Toggle</text>
+<line x1="110" y1="274" x2="1390" y2="274" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="110" y="297" width="48" height="26" rx="13.0" fill="#C8C6C0"/>
+<circle cx="123.0" cy="310.0" r="10.0" fill="#FFFFFF"/>
+<text x="110" y="348" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">關閉</text>
+<rect x="310" y="297" width="48" height="26" rx="13.0" fill="#F04E23"/>
+<circle cx="345.0" cy="310.0" r="10.0" fill="#FFFFFF"/>
+<text x="310" y="348" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">開啟（生效中）</text>
+<rect x="510" y="297" width="48" height="26" rx="13.0" fill="#F4A58F"/>
+<circle cx="545.0" cy="310.0" r="10.0" fill="#FFFFFF"/>
+<text x="510" y="348" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">開啟但未生效</text>
+<rect x="710" y="294" width="60" height="32" rx="16.0" fill="#F04E23"/>
+<circle cx="754.0" cy="310.0" r="13.0" fill="#FFFFFF"/>
+<text x="710" y="348" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">總開關 60×32</text>
+<text x="910" y="314" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">未生效 = 功能開啟，但總開關關閉或遊戲未執行（#F4A58F）</text>
+<text x="110" y="404" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="start">快捷鍵標籤 Hotkey chip</text>
+<line x1="110" y1="414" x2="1390" y2="414" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="110" y="436" width="84.88" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="152.44" y="455.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">快捷鍵  F7</text>
+<text x="110" y="488" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">預設</text>
+<rect x="310" y="436" width="88.72" height="30" rx="0" fill="#FFF78B" stroke="#D8D6D0" stroke-width="1"/>
+<text x="354.36" y="455.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">請按下按鍵…</text>
+<text x="310" y="488" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">錄製中（黃）</text>
+<rect x="510" y="436" width="107.44" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="563.72" y="455.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">快捷鍵  未設定</text>
+<text x="510" y="488" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">未設定</text>
+<rect x="710" y="436" width="86.32" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="753.16" y="455.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">減少  PgDn</text>
+<text x="710" y="488" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">數值：減少</text>
+<rect x="910" y="436" width="86.32" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="953.16" y="455.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">增加  PgUp</text>
+<text x="910" y="488" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">數值：增加</text>
+<text x="1110" y="454" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">Esc 取消 · Backspace 清除 · 同鍵只綁一個功能</text>
+<text x="110" y="544" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="start">狀態 Status</text>
+<line x1="110" y1="554" x2="1390" y2="554" stroke="#D8D6D0" stroke-width="1"/>
+<circle cx="115" cy="590" r="5" fill="#2E9B57"/>
+<text x="128" y="594" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#2E9B57" text-anchor="start">遊戲執行中 · PID 1234</text>
+<circle cx="318.91999999999996" cy="590" r="5" fill="#8F8D88"/>
+<text x="331.91999999999996" y="594" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#8F8D88" text-anchor="start">未偵測到遊戲 · 每秒自動偵測</text>
+<circle cx="553.0799999999999" cy="590" r="5" fill="#C77700"/>
+<text x="566.0799999999999" y="594" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#C77700" text-anchor="start">遊戲版本不符（需要 Ver.1.0），功能已停用</text>
+<text x="110" y="628" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">總開關說明：</text>
+<text x="190" y="628" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="400" fill="#5D5B56" text-anchor="start">已關閉 — 不會對遊戲做任何修改。</text>
+<text x="510" y="628" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="400" fill="#2E9B57" text-anchor="start">已開啟 — 下方開啟的功能會持續生效。</text>
+<text x="830" y="628" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="400" fill="#C77700" text-anchor="start">已開啟 — 等待遊戲啟動後自動套用。</text>
+<text x="110" y="684" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="start">遊戲卡片 Game card（180×270 + 名稱列）</text>
+<line x1="110" y1="694" x2="1390" y2="694" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="110" y="710" width="182" height="330" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="111" y="711" width="180" height="270" rx="0" fill="#DAD8D2"/>
+<line x1="111" y1="711" x2="291" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<line x1="291" y1="711" x2="111" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<rect x="184.0" y="836.0" width="34.0" height="20" rx="3" fill="#FFFFFF"/>
+<text x="201.0" y="850.0" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="middle">封面</text>
+<text x="124" y="1006" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="start">Sample Game</text>
+<text x="124" y="1026" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">已支援 · Ver.1.0</text>
+<text x="110" y="1058" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">已支援</text>
+<rect x="320" y="710" width="182" height="330" rx="0" fill="#FFFFFF" stroke="#F04E23" stroke-width="1.5"/>
+<rect x="321" y="711" width="180" height="270" rx="0" fill="#DAD8D2"/>
+<line x1="321" y1="711" x2="501" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<line x1="501" y1="711" x2="321" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<rect x="394.0" y="836.0" width="34.0" height="20" rx="3" fill="#FFFFFF"/>
+<text x="411.0" y="850.0" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="middle">封面</text>
+<text x="334" y="1006" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="start">Sample Game</text>
+<text x="334" y="1026" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">已支援 · Ver.1.0</text>
+<text x="320" y="1058" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">hover</text>
+<rect x="530" y="710" width="182" height="330" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="531" y="711" width="180" height="270" rx="0" fill="#DAD8D2"/>
+<line x1="531" y1="711" x2="711" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<line x1="711" y1="711" x2="531" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<rect x="604.0" y="836.0" width="34.0" height="20" rx="3" fill="#FFFFFF"/>
+<text x="621.0" y="850.0" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="middle">封面</text>
+<text x="544" y="1006" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="start">Sample Game</text>
+<text x="544" y="1026" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#2E9B57" text-anchor="start">●  執行中 · Ver.1.0</text>
+<text x="530" y="1058" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">遊戲執行中</text>
+<rect x="740" y="710" width="182" height="330" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="741" y="711" width="180" height="270" rx="0" fill="#DAD8D2"/>
+<line x1="741" y1="711" x2="921" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<line x1="921" y1="711" x2="741" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<rect x="814.0" y="836.0" width="34.0" height="20" rx="3" fill="#FFFFFF"/>
+<text x="831.0" y="850.0" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="middle">封面</text>
+<text x="754" y="1006" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="start">Sample Game</text>
+<text x="754" y="1026" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#F04E23" text-anchor="start">●  修改器運作中 · Ver.1.0</text>
+<text x="740" y="1058" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">修改器運作中</text>
+<rect x="950" y="710" width="182" height="330" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="951" y="711" width="180" height="270" rx="0" fill="#DAD8D2"/>
+<line x1="951" y1="711" x2="1131" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<line x1="1131" y1="711" x2="951" y2="981" stroke="#C9C7C0" stroke-width="1"/>
+<rect x="1024.0" y="836.0" width="34.0" height="20" rx="3" fill="#FFFFFF"/>
+<text x="1041.0" y="850.0" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="middle">封面</text>
+<rect x="951" y="711" width="180" height="270" rx="0" fill="#808080" opacity="0.35"/>
+<text x="964" y="1006" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="start">Game Title</text>
+<text x="964" y="1026" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">尚未支援</text>
+<text x="950" y="1058" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">尚未支援（灰階）</text>
+<rect x="1160" y="710" width="182" height="330" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="1161" y="711" width="180" height="270" rx="0" fill="#DAD8D2"/>
+<text x="1251" y="850" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#5D5B56" text-anchor="middle">Game Title</text>
+<text x="1174" y="1006" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="13" font-weight="700" fill="#0E0E0E" text-anchor="start">Game Title</text>
+<text x="1174" y="1026" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">尚未支援</text>
+<text x="1160" y="1058" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">沒有封面圖</text>
+<text x="110" y="1104" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="start">數值滑桿</text>
+<line x1="110" y1="1114" x2="1390" y2="1114" stroke="#D8D6D0" stroke-width="1"/>
+<rect x="110" y="1130" width="620" height="158" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<text x="136" y="1168" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="16" font-weight="700" fill="#0E0E0E" text-anchor="start">數值型功能名稱</text>
+<rect x="617.6800000000001" y="1148" width="86.32" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="660.84" y="1167.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">增加  PgUp</text>
+<rect x="523.3600000000001" y="1148" width="86.32" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="566.5200000000001" y="1167.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">減少  PgDn</text>
+<text x="136" y="1196" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="400" fill="#5D5B56" text-anchor="start">1 為原本的數值，數字代表倍率（例如 11 = 原本 ×11）。</text>
+<rect x="136" y="1226" width="40" height="30" rx="0" fill="#F6F5F2"/>
+<text x="156.0" y="1246.76" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="16" font-weight="700" fill="#0E0E0E" text-anchor="middle">−</text>
+<rect x="190" y="1236" width="374" height="10" rx="0" fill="#C8C6C0"/>
+<rect x="190.0" y="1233" width="22" height="16" rx="0" fill="#8F8D88"/>
+<rect x="578" y="1226" width="40" height="30" rx="0" fill="#F6F5F2"/>
+<text x="598.0" y="1246.04" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="middle">+</text>
+<rect x="632" y="1224" width="54" height="34" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="659" y="1247" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="17" font-weight="700" fill="#0E0E0E" text-anchor="middle">1</text>
+<text x="695" y="1246" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="15" font-weight="400" fill="#5D5B56" text-anchor="middle">×</text>
+<text x="190" y="1272" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">1（原速）</text>
+<text x="564" y="1272" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="end">50</text>
+<text x="110" y="1304" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">值 = 1（原本行為）：滑塊灰</text>
+<rect x="770" y="1130" width="620" height="158" rx="0" fill="#FFFFFF" stroke="#D8D6D0" stroke-width="1"/>
+<text x="796" y="1168" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="16" font-weight="700" fill="#0E0E0E" text-anchor="start">數值型功能名稱</text>
+<rect x="1277.68" y="1148" width="86.32" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="1320.8400000000001" y="1167.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">增加  PgUp</text>
+<rect x="1183.3600000000001" y="1148" width="86.32" height="30" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="1226.5200000000002" y="1167.5" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="700" fill="#0E0E0E" text-anchor="middle">減少  PgDn</text>
+<text x="796" y="1196" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="12" font-weight="400" fill="#5D5B56" text-anchor="start">1 為原本的數值，數字代表倍率（例如 11 = 原本 ×11）。</text>
+<rect x="796" y="1226" width="40" height="30" rx="0" fill="#F6F5F2"/>
+<text x="816.0" y="1246.76" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="16" font-weight="700" fill="#0E0E0E" text-anchor="middle">−</text>
+<rect x="850" y="1236" width="374" height="10" rx="0" fill="#C8C6C0"/>
+<rect x="921.8367346938776" y="1233" width="22" height="16" rx="0" fill="#F4A58F"/>
+<rect x="1238" y="1226" width="40" height="30" rx="0" fill="#F6F5F2"/>
+<text x="1258.0" y="1246.04" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="14" font-weight="700" fill="#0E0E0E" text-anchor="middle">+</text>
+<rect x="1292" y="1224" width="54" height="34" rx="0" fill="#F6F5F2" stroke="#D8D6D0" stroke-width="1"/>
+<text x="1319" y="1247" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="17" font-weight="700" fill="#0E0E0E" text-anchor="middle">11</text>
+<text x="1355" y="1246" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="15" font-weight="400" fill="#5D5B56" text-anchor="middle">×</text>
+<text x="850" y="1272" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">1（原速）</text>
+<text x="1224" y="1272" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="end">50</text>
+<text x="770" y="1304" font-family="'Microsoft JhengHei UI','Microsoft JhengHei','Noto Sans TC',sans-serif" font-size="11" font-weight="400" fill="#8F8D88" text-anchor="start">值 &gt; 1 但未生效：滑塊淡橘（生效中為橘）</text>
+</svg>

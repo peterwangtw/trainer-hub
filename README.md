@@ -74,13 +74,19 @@ app/
   memory.py             程序記憶體讀寫
   steam.py              Steam 遊戲庫掃描
   imaging.py            GDI+ 圖片縮放
+  icon.py               App 圖示（程式產生的像素圖）
   games/
     base.py             GameDef / Feature / Setting 定義
     frontline.py        FrontLine 修改器
 tools/
   build_runtime.py      建立內建 Python 執行環境
   make_release.py       打包發佈 zip
+  gen_ui_mockups.py     產生 UI/UX 設計稿（docs/ui/*.svg）
+docs/
+  ui-ux.md              UI / UX 規格（設計 tokens、頁面框架、元件狀態、互動規則）
 ```
+
+介面設計規格見 [docs/ui-ux.md](docs/ui-ux.md)。
 
 ### 新增遊戲
 
