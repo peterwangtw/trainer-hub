@@ -10,7 +10,7 @@ import tkinter as tk
 import traceback
 import winsound
 
-from . import imaging, steam
+from . import icon, imaging, steam
 from .games import GAMES
 from .memory import Process, find_pid
 
@@ -947,6 +947,7 @@ class App:
         self.scanning = False
 
         root.title("Trainer Hub")
+        self.icons = icon.apply(root)  # 取代 Tk 預設的羽毛；設定視窗也會套用
         root.configure(bg=C["bg"])
         root.minsize(1000, 680)
         w, h = 1180, 820
@@ -1277,6 +1278,7 @@ def main():
         ctypes.windll.shcore.SetProcessDpiAwareness(1)
     except (AttributeError, OSError):
         pass
+    icon.set_app_id()  # 必須在建立視窗前
     root = tk.Tk()
     try:
         App(root)
