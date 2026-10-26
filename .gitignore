@@ -1,0 +1,13 @@
+# 使用者個人設定與快取
+config.json
+cache/
+launcher_error.log
+
+# 內建 Python 執行環境（由 tools/build_runtime.py 產生，隨 Release zip 發佈）
+runtime/
+
+# 打包輸出
+dist/
+
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+# 統一換行；.bat 必須是 CRLF，否則 cmd 可能執行錯誤
+* text=auto
+*.bat text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
