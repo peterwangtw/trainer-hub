@@ -50,6 +50,9 @@
 需求：Windows、已安裝的 Python 3.11+（含 tkinter，只在建置 runtime 時需要）。
 
 ```bat
+git clone https://github.com/peterwangtw/trainer-hub.git
+cd trainer-hub
+
 :: 從已安裝的 Python 複製出精簡、隔離的 runtime\（約 16 MB）
 python tools\build_runtime.py
 
