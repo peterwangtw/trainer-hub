@@ -99,4 +99,17 @@ docs/
 
 - 僅供單機遊戲測試使用，請勿用於線上 / 多人遊戲
 - 與各遊戲開發商無關；遊戲名稱與圖片版權屬於各自的權利人
-- `runtime/` 內含 Python（PSF License，見 `runtime/LICENSE.txt`）與 Tcl/Tk
+
+## 授權
+
+Trainer Hub 以 [GNU General Public License v3.0](LICENSE)（GPL-3.0）授權。
+
+- 你可以自由使用、研究、修改與再散布本程式。
+- 散布修改版，或散布包含本程式的作品時，**必須同樣以 GPL-3.0 授權並公開完整原始碼**，且保留原本的版權與授權聲明。
+  因此本專案不能被改成閉源的商品。
+
+`runtime/`（隨 Release 發佈）內含的第三方元件依其各自的授權散布：
+
+- Python：PSF License（見 `runtime/LICENSE.txt`，內含 libffi 等第三方聲明）
+- Tcl/Tk：BSD 式授權（見 `runtime/tcl/tk8.6/license.terms`）
+- Microsoft Visual C++ Runtime（`vcruntime140*.dll`）：依 Microsoft 可再散布條款隨 Python 一同散布
